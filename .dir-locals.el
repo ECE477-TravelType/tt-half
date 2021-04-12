@@ -1,3 +1,5 @@
+;;; This file contains some custom settings for working on this project in emacs.
+
 ((nil . ((eval . (progn
                    (defvar tt-half-mode-map (make-sparse-keymap)
                      "Keymap while tt-half-mode is active.")
