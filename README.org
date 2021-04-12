@@ -1,3 +1,5 @@
+[[file:header.jpg]]
+
 * TravelType - ECE 477 Spring 2021 - Team 2
 TravelType is a semi-wireless, portable, split ergonomic keyboard. This is the firmware for each of the wireless keyboard halves. It is intended to be run on an STM32L053R8Tx microcontroller.
 
